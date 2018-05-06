@@ -1,0 +1,19 @@
+{
+"model": [
+    "iPhone 5",
+    "iPhone 5s",
+    "iPhone SE"
+],
+"provider": [
+    "Unlocked",
+    "AT&T"
+],
+"storage": [
+    "16",
+    "32"
+],
+"condition": [
+    "Brand New",
+    "Mint"
+] 
+}
